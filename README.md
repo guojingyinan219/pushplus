@@ -4,5 +4,8 @@
 
 #### 功能使用设计图
 1.登录pushplus官网
-
+![image](https://github.com/guojingyinan219/pushplus/blob/master/doc/images/%E9%A6%96%E9%A1%B5.png)
 2.推送给个人
+![image](https://github.com/guojingyinan219/pushplus/blob/master/doc/images/%E4%B8%80%E5%AF%B9%E4%B8%80.png)
+3.推送给群组
+![image](https://github.com/guojingyinan219/pushplus/blob/master/doc/images/%E4%B8%80%E5%AF%B9%E5%A4%9A.png)
