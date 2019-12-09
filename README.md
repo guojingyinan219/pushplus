@@ -13,11 +13,11 @@
 
 - ##### 推送消息给个人
 
-![image](https://github.com/guojingyinan219/pushplus/blob/master/doc/images/%E4%B8%80%E5%AF%B9%E4%B8%80.png)
+![image](https://github.com/guojingyinan219/pushplus/blob/master/doc/images/one.png)
 
 - ##### 推送消息给群组
 
-![image](https://github.com/guojingyinan219/pushplus/blob/master/doc/images/%E4%B8%80%E5%AF%B9%E5%A4%9A.png)
+![image](https://github.com/guojingyinan219/pushplus/blob/master/doc/images/more.png)
 
 #### 支持插件
 
