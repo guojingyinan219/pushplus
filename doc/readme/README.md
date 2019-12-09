@@ -19,7 +19,7 @@
         always {
          
             pushplus (
-                "touniba01"
+                "你的群组"
             )
             
         }
