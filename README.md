@@ -24,3 +24,5 @@
 - 集成jenkins 发布项目通知 [配置参考](https://github.com/guojingyinan219/pushplus/blob/master/doc/readme/README.md)
  
 - 集成gilab 私服消息push通知
+
+#### 使用过程中，如果有任何问题，请留言，谢谢
